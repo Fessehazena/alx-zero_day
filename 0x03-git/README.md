@@ -1,1 +1,1 @@
-my first read me
+this repo is for my ALX course 
